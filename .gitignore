@@ -29,6 +29,4 @@ nohup.out
 
 # 只忽略项目路径下的 myfile 文件
 /myfile
-
-
 /personal
